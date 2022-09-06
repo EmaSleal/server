@@ -1,0 +1,6 @@
+[submodule "server_frontend2"]
+	path = server_frontend2
+	url = https://github.com/EmaSleal/server.git
+[submodule "server_frontend"]
+	path = server_frontend
+	url = https://github.com/EmaSleal/server_frontend.git
